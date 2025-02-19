@@ -1,4 +1,4 @@
-
+this will stay here as a reminder that you all are stupid 
 # APS3e - Android PS3 Emulator  
 **Free | Ad-free | Open Source (Partial)**
 
